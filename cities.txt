@@ -1,0 +1,10 @@
+cities,Viridian City,Pewter City,Cerulean City,Vermilion City,Celadon City,Fuchsia City,Saffron City,Lavender City,Shayon City
+Viridian City,0,1,0,1,0,1,0,1,1
+Pewter City,1,0,1,0,1,0,1,0,1
+Cerulean City,0,1,0,1,0,1,0,1,1
+Vermilion City,1,0,1,0,1,0,1,0,1
+Celadon City,0,1,0,1,0,1,0,1,1
+Fuchsia City,1,0,1,0,1,0,1,0,1
+Saffron City,0,1,0,1,0,1,0,1,1
+Lavender City,1,0,1,0,1,0,1,0,1
+Shayon City,1,1,1,1,1,1,1,1,0 // shayon is centerpoint of map so you can go to any city
